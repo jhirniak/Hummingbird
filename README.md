@@ -4,7 +4,7 @@ Hummingbird is web application for managing diabetes.
 
 ## Stage
 
-This project is at very stage of development and anything deployable should not be expected shorter than by the end of August.
+This project is at very early stage of development and anything deployable should not be expected shorter than by the end of August.
 
 ## Name
 
@@ -12,4 +12,4 @@ Hummingbird is a nectarivorous animal and all nectars are sugar-rich - same as l
 
 ## Demo
 
-The latest deployment version of the web app is available at [link to hummybird on heroku](http://www.hummy.herokuapp.com).
+The latest deployment version of the web app is available at [Hummingbird on HerokuApp](http://www.hummy.herokuapp.com).
